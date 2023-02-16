@@ -1,4 +1,4 @@
-# sub_strings  
+# substrings  
   
 Set dictionary array  
 Enter a string and the dictionary array as arguments to substring method  
